@@ -1,0 +1,8 @@
+{
+  "short_name": "Project",
+  "name": "React Project Template 2020",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
